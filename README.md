@@ -1,5 +1,6 @@
 # Lab8-Starter
 
+## [GitHub Page Live](https://amormio25.github.io/Lab8_Starter/)
 ## Lab partners: Amormio (me)
 
 ## Question: How are graceful degradation and service workers related?
